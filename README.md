@@ -6,11 +6,12 @@ The dashboard is designed to help HR professionals and decision-makers understan
 
 Objective
 The main goal of this project is to:
-Analyze employee data effectively
-Identify key factors influencing attrition
-Support data-driven HR decisions
+Analyze employee data effectively,
+Identify key factors influencing attrition,
+Support data-driven HR decisions and Enhance employee retention strategies.
 
 Key Features
+
 1-Workforce Overview
 Total Employees: 1.47K
 Active Employees: 1K
@@ -40,4 +41,3 @@ Power BI – Data visualization and dashboard creation
 Data Cleaning & Transformation – Power Query
 DAX (Data Analysis Expressions) – KPI calculations and measures
 
-Enhance employee retention strategies
